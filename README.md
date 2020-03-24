@@ -1,7 +1,7 @@
 # Basic Keygen / Serial Generator
 This Is An Easy Tool That Will Generate Serials / Keys For The User
 
-#Screenshots
+# Screenshots
 
 ![Sample 1](https://i.ibb.co/f8HTfnF/Screenshot1.png)
 
