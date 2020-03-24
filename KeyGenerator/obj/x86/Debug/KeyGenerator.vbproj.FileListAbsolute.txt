@@ -1,0 +1,9 @@
+c:\users\xelogic\documents\visual studio 2010\Projects\KeyGenerator\KeyGenerator\obj\x86\Debug\KeyGenerator.Form1.resources
+c:\users\xelogic\documents\visual studio 2010\Projects\KeyGenerator\KeyGenerator\obj\x86\Debug\KeyGenerator.Resources.resources
+c:\users\xelogic\documents\visual studio 2010\Projects\KeyGenerator\KeyGenerator\obj\x86\Debug\KeyGenerator.vbproj.GenerateResource.Cache
+C:\Users\XeLogic\Documents\Visual Studio 2010\Projects\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.exe
+C:\Users\XeLogic\Documents\Visual Studio 2010\Projects\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.pdb
+C:\Users\XeLogic\Documents\Visual Studio 2010\Projects\KeyGenerator\KeyGenerator\bin\Debug\KeyGenerator.xml
+C:\Users\XeLogic\Documents\Visual Studio 2010\Projects\KeyGenerator\KeyGenerator\obj\x86\Debug\KeyGenerator.exe
+C:\Users\XeLogic\Documents\Visual Studio 2010\Projects\KeyGenerator\KeyGenerator\obj\x86\Debug\KeyGenerator.xml
+C:\Users\XeLogic\Documents\Visual Studio 2010\Projects\KeyGenerator\KeyGenerator\obj\x86\Debug\KeyGenerator.pdb
